@@ -51,6 +51,7 @@ namespace llab02
                             default:
                         if (number == 4)
                         {
+                            Console.WriteLine("See You Another Time ");
                             Environment.Exit(0);
                         }else
                                      Console.WriteLine("The service is not found.");
