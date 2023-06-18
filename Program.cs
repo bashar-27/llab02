@@ -27,7 +27,7 @@ namespace llab02
                         Console.WriteLine("If you want to deposit an amount of money please press (3)\n");
                         Console.WriteLine("If you want to cancel the transaction please press (4)\n");
                         number =Convert.ToInt32( Console.ReadLine());
-
+                        //To choose transaction
                         switch (number)
                         {
                             case 1:
